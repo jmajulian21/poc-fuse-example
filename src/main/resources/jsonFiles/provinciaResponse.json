@@ -1,0 +1,13 @@
+{
+	"fecha":"20-04-2021",
+	"hora":"15:00pm",
+	"provincia":{
+		"id":"06",
+		"nombre":"Buenos Aires",
+		"localidades":[
+		{"id":"01","nombre":"Luis Guillon"},
+		{"id":"02","nombre":"Luis Guillon"},
+		{"id":"03","nombre":"Luis Guillon"}
+		]
+	}
+}

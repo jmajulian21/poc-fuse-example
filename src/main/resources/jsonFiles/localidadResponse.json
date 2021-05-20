@@ -1,0 +1,2514 @@
+{
+    "cantidad": 100,
+    "inicio": 0,
+    "localidades": [
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.1774801030509,
+                "lon": -62.7578962604015
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007010000",
+            "localidad_censal": {
+                "id": "06007010",
+                "nombre": "Carhué"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "CARHUE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.4486186469627,
+                "lon": -63.117609405389
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007020000",
+            "localidad_censal": {
+                "id": "06007020",
+                "nombre": "Colonia San Miguel Arcángel"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "COLONIA SAN MIGUEL ARCANGEL",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.3173292631958,
+                "lon": -63.2331690622102
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007030000",
+            "localidad_censal": {
+                "id": "06007030",
+                "nombre": "Delfín Huergo"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "DELFIN HUERGO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Componente de localidad compuesta",
+            "centroide": {
+                "lat": -37.3563345638716,
+                "lon": -62.4387637810214
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007040000",
+            "localidad_censal": {
+                "id": "06007040",
+                "nombre": "Espartillar"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "ESPARTILLAR",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.4544378016288,
+                "lon": -63.2565950033782
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007050000",
+            "localidad_censal": {
+                "id": "06007050",
+                "nombre": "Esteban Agustín Gascón"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "ESTEBAN AGUSTIN GASCON",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.6613400852941,
+                "lon": -63.3661281675236
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007060000",
+            "localidad_censal": {
+                "id": "06007060",
+                "nombre": "La Pala"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "LA PALA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.7999468137731,
+                "lon": -63.3385151506224
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007070000",
+            "localidad_censal": {
+                "id": "06007070",
+                "nombre": "Maza"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "MAZA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.1583546113813,
+                "lon": -63.2442194943605
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007080000",
+            "localidad_censal": {
+                "id": "06007080",
+                "nombre": "Rivera"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "RIVERA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.4600992847959,
+                "lon": -63.2405658599852
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007100000",
+            "localidad_censal": {
+                "id": "06007100",
+                "nombre": "Villa Margarita"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "VILLA MARGARITA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.9884309445004,
+                "lon": -63.133808887439
+            },
+            "departamento": {
+                "id": "06007",
+                "nombre": "Adolfo Alsina"
+            },
+            "id": "06007110000",
+            "localidad_censal": {
+                "id": "06007110",
+                "nombre": "Yutuyaco"
+            },
+            "municipio": {
+                "id": "060007",
+                "nombre": "Adolfo Alsina"
+            },
+            "nombre": "YUTUYACO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -38.0333995087596,
+                "lon": -60.1003341740637
+            },
+            "departamento": {
+                "id": "06014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "id": "06014010000",
+            "localidad_censal": {
+                "id": "06014010",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "municipio": {
+                "id": "060014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "nombre": "ADOLFO GONZALES CHAVES",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.9635021758562,
+                "lon": -60.415659383962
+            },
+            "departamento": {
+                "id": "06014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "id": "06014020000",
+            "localidad_censal": {
+                "id": "06014020",
+                "nombre": "De La Garma"
+            },
+            "municipio": {
+                "id": "060014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "nombre": "DE LA GARMA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.8233871716044,
+                "lon": -60.484639770555
+            },
+            "departamento": {
+                "id": "06014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "id": "06014030000",
+            "localidad_censal": {
+                "id": "06014030",
+                "nombre": "Juan E. Barra"
+            },
+            "municipio": {
+                "id": "060014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "nombre": "JUAN E. BARRA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -38.1766861391835,
+                "lon": -60.1708487303777
+            },
+            "departamento": {
+                "id": "06014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "id": "06014040000",
+            "localidad_censal": {
+                "id": "06014040",
+                "nombre": "Vásquez"
+            },
+            "municipio": {
+                "id": "060014",
+                "nombre": "Adolfo Gonzales Chaves"
+            },
+            "nombre": "VASQUEZ",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -35.0330734347841,
+                "lon": -60.2806197287099
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021010000",
+            "localidad_censal": {
+                "id": "06021010",
+                "nombre": "Alberti"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "ALBERTI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -34.8681189984321,
+                "lon": -60.3939708823404
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021020000",
+            "localidad_censal": {
+                "id": "06021020",
+                "nombre": "Coronel Seguí"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "CORONEL SEGUI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Componente de localidad compuesta",
+            "centroide": {
+                "lat": -35.068013673391,
+                "lon": -60.4025971632697
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021030000",
+            "localidad_censal": {
+                "id": "06021030",
+                "nombre": "Mechita"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "MECHITA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -35.1243819752343,
+                "lon": -60.2200612615259
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021040000",
+            "localidad_censal": {
+                "id": "06021040",
+                "nombre": "Pla"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "PLA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -35.1096178332808,
+                "lon": -60.070551324606
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021050000",
+            "localidad_censal": {
+                "id": "06021050",
+                "nombre": "Villa Grisolía"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "VILLA GRISOLIA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -34.8881255447686,
+                "lon": -60.3469385614883
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021060000",
+            "localidad_censal": {
+                "id": "06021060",
+                "nombre": "Villa María"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "VILLA MARIA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -34.8435329449862,
+                "lon": -60.3048498633642
+            },
+            "departamento": {
+                "id": "06021",
+                "nombre": "Alberti"
+            },
+            "id": "06021070000",
+            "localidad_censal": {
+                "id": "06021070",
+                "nombre": "Villa Ortiz"
+            },
+            "municipio": {
+                "id": "060021",
+                "nombre": "Alberti"
+            },
+            "nombre": "VILLA ORTIZ",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8015580737331,
+                "lon": -58.3914677191541
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010001",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "ADROGUE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8315415891783,
+                "lon": -58.3986874871405
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010002",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "BURZACO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8044759080477,
+                "lon": -58.3447825531042
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010003",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "CLAYPOLE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8210751643113,
+                "lon": -58.3447457989957
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010004",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "DON ORIONE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8860114180413,
+                "lon": -58.3818301842512
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010005",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "GLEW",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7851442510713,
+                "lon": -58.3681475603787
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010006",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "JOSE MARMOL",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8609450255718,
+                "lon": -58.3891476922426
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010007",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "LONGCHAMPS",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8189583169642,
+                "lon": -58.4235610606239
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010008",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "MALVINAS ARGENTINAS",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8556895005541,
+                "lon": -58.361646542791
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010009",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "MINISTRO RIVADAVIA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7911367513318,
+                "lon": -58.350598184222
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010010",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "RAFAEL CALZADA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7866743578473,
+                "lon": -58.3219363521574
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010011",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "SAN FRANCISCO SOLANO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7673771924196,
+                "lon": -58.3432771404358
+            },
+            "departamento": {
+                "id": "06028",
+                "nombre": "Almirante Brown"
+            },
+            "id": "06028010012",
+            "localidad_censal": {
+                "id": "06028010",
+                "nombre": "Almirante Brown"
+            },
+            "municipio": {
+                "id": "060028",
+                "nombre": "Almirante Brown"
+            },
+            "nombre": "SAN JOSE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6750056478488,
+                "lon": -58.3105634248142
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010001",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "AREA CINTURON ECOLOGICO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6626508059016,
+                "lon": -58.3656990232718
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010002",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "AVELLANEDA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.66910587351,
+                "lon": -58.3574544412345
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010003",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "CRUCESITA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6491266928534,
+                "lon": -58.3411774769136
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010004",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "DOCK SUD",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6847637540553,
+                "lon": -58.3726025503412
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010005",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "GERLI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6685497926645,
+                "lon": -58.3886029123689
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010006",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "PIÑEYRO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6843716640855,
+                "lon": -58.348101313379
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010007",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "SARANDI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.6986315148924,
+                "lon": -58.3363602646664
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010008",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "VILLA DOMINICO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7061588356333,
+                "lon": -58.3218349208501
+            },
+            "departamento": {
+                "id": "06035",
+                "nombre": "Avellaneda"
+            },
+            "id": "06035010009",
+            "localidad_censal": {
+                "id": "06035010",
+                "nombre": "Avellaneda"
+            },
+            "municipio": {
+                "id": "060035",
+                "nombre": "Avellaneda"
+            },
+            "nombre": "WILDE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.1536695670417,
+                "lon": -58.4895476662462
+            },
+            "departamento": {
+                "id": "06042",
+                "nombre": "Ayacucho"
+            },
+            "id": "06042010000",
+            "localidad_censal": {
+                "id": "06042010",
+                "nombre": "Ayacucho"
+            },
+            "municipio": {
+                "id": "060042",
+                "nombre": "Ayacucho"
+            },
+            "nombre": "AYACUCHO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.2286256057071,
+                "lon": -58.7603890048806
+            },
+            "departamento": {
+                "id": "06042",
+                "nombre": "Ayacucho"
+            },
+            "id": "06042020000",
+            "localidad_censal": {
+                "id": "06042020",
+                "nombre": "La Constancia"
+            },
+            "municipio": {
+                "id": "060042",
+                "nombre": "Ayacucho"
+            },
+            "nombre": "LA CONSTANCIA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.8444984439739,
+                "lon": -58.5071421689017
+            },
+            "departamento": {
+                "id": "06042",
+                "nombre": "Ayacucho"
+            },
+            "id": "06042030000",
+            "localidad_censal": {
+                "id": "06042030",
+                "nombre": "Solanet"
+            },
+            "municipio": {
+                "id": "060042",
+                "nombre": "Ayacucho"
+            },
+            "nombre": "SOLANET",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.5637513540211,
+                "lon": -58.5333344196536
+            },
+            "departamento": {
+                "id": "06042",
+                "nombre": "Ayacucho"
+            },
+            "id": "06042040000",
+            "localidad_censal": {
+                "id": "06042040",
+                "nombre": "Udaquiola"
+            },
+            "municipio": {
+                "id": "060042",
+                "nombre": "Ayacucho"
+            },
+            "nombre": "UDAQUIOLA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.5312544192466,
+                "lon": -59.9200651844348
+            },
+            "departamento": {
+                "id": "06049",
+                "nombre": "Azul"
+            },
+            "id": "06049010000",
+            "localidad_censal": {
+                "id": "06049010",
+                "nombre": "Ariel"
+            },
+            "municipio": {
+                "id": "060049",
+                "nombre": "Azul"
+            },
+            "nombre": "ARIEL",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.7795144970313,
+                "lon": -59.8586331707414
+            },
+            "departamento": {
+                "id": "06049",
+                "nombre": "Azul"
+            },
+            "id": "06049020000",
+            "localidad_censal": {
+                "id": "06049020",
+                "nombre": "Azul"
+            },
+            "municipio": {
+                "id": "060049",
+                "nombre": "Azul"
+            },
+            "nombre": "AZUL",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.3805626332947,
+                "lon": -59.5030645507265
+            },
+            "departamento": {
+                "id": "06049",
+                "nombre": "Azul"
+            },
+            "id": "06049030000",
+            "localidad_censal": {
+                "id": "06049030",
+                "nombre": "Cacharí"
+            },
+            "municipio": {
+                "id": "060049",
+                "nombre": "Azul"
+            },
+            "nombre": "CACHARI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.3150113247344,
+                "lon": -59.9853181679139
+            },
+            "departamento": {
+                "id": "06049",
+                "nombre": "Azul"
+            },
+            "id": "06049040000",
+            "localidad_censal": {
+                "id": "06049040",
+                "nombre": "Chillar"
+            },
+            "municipio": {
+                "id": "060049",
+                "nombre": "Azul"
+            },
+            "nombre": "CHILLAR",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.2020524773603,
+                "lon": -60.1652139181813
+            },
+            "departamento": {
+                "id": "06049",
+                "nombre": "Azul"
+            },
+            "id": "06049050000",
+            "localidad_censal": {
+                "id": "06049050",
+                "nombre": "16 de Julio"
+            },
+            "municipio": {
+                "id": "060049",
+                "nombre": "Azul"
+            },
+            "nombre": "16 DE JULIO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -38.7114037284555,
+                "lon": -62.2569089501864
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056010001",
+            "localidad_censal": {
+                "id": "06056010",
+                "nombre": "Bahía Blanca"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "BAHIA BLANCA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -38.7471079502848,
+                "lon": -62.1891166907456
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056010002",
+            "localidad_censal": {
+                "id": "06056010",
+                "nombre": "Bahía Blanca"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "GRÜNBEIN",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -38.7794670416666,
+                "lon": -62.262951248824
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056010003",
+            "localidad_censal": {
+                "id": "06056010",
+                "nombre": "Bahía Blanca"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "INGENIERO WHITE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -38.6472605094596,
+                "lon": -62.3200223419024
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056010004",
+            "localidad_censal": {
+                "id": "06056010",
+                "nombre": "Bahía Blanca"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "VILLA BORDEAU",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -38.7765069529222,
+                "lon": -62.1851833537179
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056010005",
+            "localidad_censal": {
+                "id": "06056010",
+                "nombre": "Bahía Blanca"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "VILLA ESPORA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -38.4838572081944,
+                "lon": -61.8926015349487
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056020000",
+            "localidad_censal": {
+                "id": "06056020",
+                "nombre": "Cabildo"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "CABILDO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -38.7136524854986,
+                "lon": -62.3924221653991
+            },
+            "departamento": {
+                "id": "06056",
+                "nombre": "Bahía Blanca"
+            },
+            "id": "06056030000",
+            "localidad_censal": {
+                "id": "06056030",
+                "nombre": "General Daniel Cerri"
+            },
+            "municipio": {
+                "id": "060056",
+                "nombre": "Bahía Blanca"
+            },
+            "nombre": "GENERAL DANIEL CERRI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.8482779294345,
+                "lon": -58.2551665841248
+            },
+            "departamento": {
+                "id": "06063",
+                "nombre": "Balcarce"
+            },
+            "id": "06063010000",
+            "localidad_censal": {
+                "id": "06063010",
+                "nombre": "Balcarce"
+            },
+            "municipio": {
+                "id": "060063",
+                "nombre": "Balcarce"
+            },
+            "nombre": "BALCARCE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.9412057603,
+                "lon": -58.3225920150442
+            },
+            "departamento": {
+                "id": "06063",
+                "nombre": "Balcarce"
+            },
+            "id": "06063020000",
+            "localidad_censal": {
+                "id": "06063020",
+                "nombre": "Los Pinos"
+            },
+            "municipio": {
+                "id": "060063",
+                "nombre": "Balcarce"
+            },
+            "nombre": "LOS PINOS",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.6254980210026,
+                "lon": -58.7461862359423
+            },
+            "departamento": {
+                "id": "06063",
+                "nombre": "Balcarce"
+            },
+            "id": "06063030000",
+            "localidad_censal": {
+                "id": "06063030",
+                "nombre": "Napaleofú"
+            },
+            "municipio": {
+                "id": "060063",
+                "nombre": "Balcarce"
+            },
+            "nombre": "NAPALEOFU",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.5426353712017,
+                "lon": -58.3407185507274
+            },
+            "departamento": {
+                "id": "06063",
+                "nombre": "Balcarce"
+            },
+            "id": "06063040000",
+            "localidad_censal": {
+                "id": "06063040",
+                "nombre": "Ramos Otero"
+            },
+            "municipio": {
+                "id": "060063",
+                "nombre": "Balcarce"
+            },
+            "nombre": "RAMOS OTERO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -38.0122838564587,
+                "lon": -58.355377761682
+            },
+            "departamento": {
+                "id": "06063",
+                "nombre": "Balcarce"
+            },
+            "id": "06063050000",
+            "localidad_censal": {
+                "id": "06063050",
+                "nombre": "San Agustín"
+            },
+            "municipio": {
+                "id": "060063",
+                "nombre": "Balcarce"
+            },
+            "nombre": "SAN AGUSTIN",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.8596285282151,
+                "lon": -57.9806008736401
+            },
+            "departamento": {
+                "id": "06063",
+                "nombre": "Balcarce"
+            },
+            "id": "06063060000",
+            "localidad_censal": {
+                "id": "06063060",
+                "nombre": "Villa Laguna La Brava"
+            },
+            "municipio": {
+                "id": "060063",
+                "nombre": "Balcarce"
+            },
+            "nombre": "VILLA LAGUNA LA BRAVA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -33.8128781547156,
+                "lon": -59.5043068852807
+            },
+            "departamento": {
+                "id": "06070",
+                "nombre": "Baradero"
+            },
+            "id": "06070010000",
+            "localidad_censal": {
+                "id": "06070010",
+                "nombre": "Baradero"
+            },
+            "municipio": {
+                "id": "060070",
+                "nombre": "Baradero"
+            },
+            "nombre": "BARADERO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -33.9810489198561,
+                "lon": -59.6715601606315
+            },
+            "departamento": {
+                "id": "06070",
+                "nombre": "Baradero"
+            },
+            "id": "06070020000",
+            "localidad_censal": {
+                "id": "06070020",
+                "nombre": "Irineo Portela"
+            },
+            "municipio": {
+                "id": "060070",
+                "nombre": "Baradero"
+            },
+            "nombre": "IRINEO PORTELA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -34.062154134736,
+                "lon": -59.5585420642846
+            },
+            "departamento": {
+                "id": "06070",
+                "nombre": "Baradero"
+            },
+            "id": "06070030000",
+            "localidad_censal": {
+                "id": "06070030",
+                "nombre": "Santa Coloma"
+            },
+            "municipio": {
+                "id": "060070",
+                "nombre": "Baradero"
+            },
+            "nombre": "SANTA COLOMA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -33.9096038045591,
+                "lon": -59.3882017132282
+            },
+            "departamento": {
+                "id": "06070",
+                "nombre": "Baradero"
+            },
+            "id": "06070040000",
+            "localidad_censal": {
+                "id": "06070040",
+                "nombre": "Villa Alsina"
+            },
+            "municipio": {
+                "id": "060070",
+                "nombre": "Baradero"
+            },
+            "nombre": "VILLA ALSINA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -34.064591121211,
+                "lon": -60.1025564443537
+            },
+            "departamento": {
+                "id": "06077",
+                "nombre": "Arrecifes"
+            },
+            "id": "06077010000",
+            "localidad_censal": {
+                "id": "06077010",
+                "nombre": "Arrecifes"
+            },
+            "municipio": {
+                "id": "060077",
+                "nombre": "Arrecifes"
+            },
+            "nombre": "ARRECIFES",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -34.0328240475348,
+                "lon": -60.1562270065746
+            },
+            "departamento": {
+                "id": "06077",
+                "nombre": "Arrecifes"
+            },
+            "id": "06077020000",
+            "localidad_censal": {
+                "id": "06077020",
+                "nombre": "Todd"
+            },
+            "municipio": {
+                "id": "060077",
+                "nombre": "Arrecifes"
+            },
+            "nombre": "TODD",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -33.9922765156087,
+                "lon": -60.2263211205477
+            },
+            "departamento": {
+                "id": "06077",
+                "nombre": "Arrecifes"
+            },
+            "id": "06077030000",
+            "localidad_censal": {
+                "id": "06077030",
+                "nombre": "Viña"
+            },
+            "municipio": {
+                "id": "060077",
+                "nombre": "Arrecifes"
+            },
+            "nombre": "VI¥A",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.6424111302365,
+                "lon": -59.3889380312927
+            },
+            "departamento": {
+                "id": "06084",
+                "nombre": "Benito Juárez"
+            },
+            "id": "06084010000",
+            "localidad_censal": {
+                "id": "06084010",
+                "nombre": "Barker"
+            },
+            "municipio": {
+                "id": "060084",
+                "nombre": "Benito Juárez"
+            },
+            "nombre": "BARKER",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.6766410210105,
+                "lon": -59.8057677109444
+            },
+            "departamento": {
+                "id": "06084",
+                "nombre": "Benito Juárez"
+            },
+            "id": "06084020000",
+            "localidad_censal": {
+                "id": "06084020",
+                "nombre": "Benito Juárez"
+            },
+            "municipio": {
+                "id": "060084",
+                "nombre": "Benito Juárez"
+            },
+            "nombre": "BENITO JUAREZ",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.5545120854221,
+                "lon": -59.6278461536299
+            },
+            "departamento": {
+                "id": "06084",
+                "nombre": "Benito Juárez"
+            },
+            "id": "06084030000",
+            "localidad_censal": {
+                "id": "06084030",
+                "nombre": "López"
+            },
+            "municipio": {
+                "id": "060084",
+                "nombre": "Benito Juárez"
+            },
+            "nombre": "LOPEZ",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.3683686253208,
+                "lon": -59.7630391604187
+            },
+            "departamento": {
+                "id": "06084",
+                "nombre": "Benito Juárez"
+            },
+            "id": "06084040000",
+            "localidad_censal": {
+                "id": "06084040",
+                "nombre": "Tedín Uriburu"
+            },
+            "municipio": {
+                "id": "060084",
+                "nombre": "Benito Juárez"
+            },
+            "nombre": "TEDIN URIBURU",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -37.6704778893557,
+                "lon": -59.4003533386514
+            },
+            "departamento": {
+                "id": "06084",
+                "nombre": "Benito Juárez"
+            },
+            "id": "06084050000",
+            "localidad_censal": {
+                "id": "06084050",
+                "nombre": "Villa Cacique"
+            },
+            "municipio": {
+                "id": "060084",
+                "nombre": "Benito Juárez"
+            },
+            "nombre": "VILLA CACIQUE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7597493264937,
+                "lon": -58.2019645234278
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010001",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "BERAZATEGUI",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7804201858899,
+                "lon": -58.2415010261207
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010002",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "BERAZATEGUI OESTE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8021192214631,
+                "lon": -58.2188212494897
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010003",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "CARLOS TOMAS SOURIGUES",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9067557072114,
+                "lon": -58.1966995021239
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010004",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "EL PATO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7897594857633,
+                "lon": -58.1439692638183
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010005",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "GUILLERMO ENRIQUE HUDSON",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8348420760566,
+                "lon": -58.1819061125702
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010006",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "JUAN MARIA GUTIERREZ",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8471945391094,
+                "lon": -58.1392765205344
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010007",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "PEREYRA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7674201820877,
+                "lon": -58.1652686003148
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010008",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "PLATANOS",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.7941468501172,
+                "lon": -58.1989815634425
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010009",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "RANELAGH",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.776063416904,
+                "lon": -58.2002532983623
+            },
+            "departamento": {
+                "id": "06091",
+                "nombre": "Berazategui"
+            },
+            "id": "06091010010",
+            "localidad_censal": {
+                "id": "06091010",
+                "nombre": "Berazategui"
+            },
+            "municipio": {
+                "id": "060091",
+                "nombre": "Berazategui"
+            },
+            "nombre": "VILLA ESPAÑA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8752589900973,
+                "lon": -57.8550856662876
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010001",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "BARRIO BANCO PROVINCIA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9293102150655,
+                "lon": -57.8853552505795
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010002",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "BARRIO EL CARMEN (ESTE)",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9027528834433,
+                "lon": -57.9270884333304
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010003",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "BARRIO UNIVERSITARIO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8746353679645,
+                "lon": -57.8947472316799
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010004",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "BERISSO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9190209219847,
+                "lon": -57.7909954962894
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010005",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "LOS TALAS",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9053981881099,
+                "lon": -57.9180815078165
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010006",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA ARGÜELLO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8802085383888,
+                "lon": -57.8663036732616
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010007",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA DOLORES",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8829519743895,
+                "lon": -57.8614892695719
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010008",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA INDEPENDENCIA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8957079362353,
+                "lon": -57.9108816644737
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010009",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA NUEVA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.891043310448,
+                "lon": -57.8963773978494
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010010",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA PORTEÑA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9308766123633,
+                "lon": -57.8468799885622
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010011",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA PROGRESO",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.8838130805,
+                "lon": -57.87701595642
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010012",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA SAN CARLOS",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Entidad",
+            "centroide": {
+                "lat": -34.9221646298322,
+                "lon": -57.8009664840662
+            },
+            "departamento": {
+                "id": "06098",
+                "nombre": "Berisso"
+            },
+            "id": "06098010013",
+            "localidad_censal": {
+                "id": "06098010",
+                "nombre": "Berisso"
+            },
+            "municipio": {
+                "id": "060098",
+                "nombre": "Berisso"
+            },
+            "nombre": "VILLA ZULA",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        },
+        {
+            "categoria": "Localidad simple",
+            "centroide": {
+                "lat": -36.0010429767568,
+                "lon": -60.8534495072374
+            },
+            "departamento": {
+                "id": "06105",
+                "nombre": "Bolívar"
+            },
+            "id": "06105010000",
+            "localidad_censal": {
+                "id": "06105010",
+                "nombre": "Hale"
+            },
+            "municipio": {
+                "id": "060105",
+                "nombre": "Bolívar"
+            },
+            "nombre": "HALE",
+            "provincia": {
+                "id": "06",
+                "nombre": "Buenos Aires"
+            }
+        }
+    ],
+    "parametros": {
+        "formato": "json",
+        "max": 100,
+        "provincia": [
+            "06"
+        ]
+    },
+    "total": 893
+}
