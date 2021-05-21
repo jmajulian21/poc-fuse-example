@@ -1,7 +1,0 @@
-{
-    "error": {
-        "codigoError": "PROV-003",
-        "tipoError": "Tecnico",
-        "descripcion": "Restlet operation failed invoking http://apis.datos.gob.ar:803/georef/api/provincias?nombre=ds with statusCode: 1001 /n responseBody:HTTP/1.1 - Communication Error (1001) - The connector failed to complete the communication with the server"
-    }
-}

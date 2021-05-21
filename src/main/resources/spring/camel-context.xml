@@ -1,67 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd        http://camel.apache.org/schema/spring       https://camel.apache.org/schema/spring/camel-spring.xsd">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="        http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd        http://camel.apache.org/schema/spring       https://camel.apache.org/schema/spring/camel-spring.xsd">
     <camelContext id="camel" xmlns="http://camel.apache.org/schema/spring">
-        <endpoint id="errorHandler" uri="dozer:errorHandler?sourceModel=java.lang.Object&amp;targetModel=errorresponse.ErrorResponse&amp;marshalId=transform-json&amp;mappingFile=transformation-error.xml"/>
-        <endpoint id="georef_to_provincias" uri="dozer:georef_to_provincias?sourceModel=localidadresponse.LocalidadResponse&amp;targetModel=provinciaresponse.ProvinciaResponse&amp;marshalId=transform-json&amp;unmarshalId=localidadresponseLocalidadResponse&amp;mappingFile=transformation.xml"/>
-        <dataFormats>
-            <json id="localidadresponseLocalidadResponse"
-                library="Jackson" unmarshalTypeName="localidadresponse.LocalidadResponse"/>
-            <json id="transform-json" library="Jackson"/>
-        </dataFormats>
-        <route id="api-get-provincias">
-            <from id="_from1" uri="direct:api-get-provincias:start"/>
-            <doTry id="_doTry1">
-                <setHeader headerName="Content-Type" id="_setHeader1">
-                    <constant>application/json</constant>
-                </setHeader>
-                <toD id="_to1" uri="${header.uriProvincia}"/>
-                <bean beanType="ar.globallogic.dto.ProvinciasConsulta"
-                    id="_bean1" method="convertJsonToObject(${body})"/>
-                <when id="_when1">
-                    <simple>${body.cantidad} == 0</simple>
-                    <throwException
-                        exceptionType="ar.globallogic.error.ProvinciaNotFoundException" id="_throwException1"/>
-                </when>
-                <setProperty id="_setProperty1" propertyName="provinciaId">
-                    <simple>${body.provincias[0].id}</simple>
-                </setProperty>
-                <setProperty id="_setProperty2" propertyName="provinciaDesc">
-                    <simple>${body.provincias[0].nombre}</simple>
-                </setProperty>
-                <toD allowOptimisedComponents="false" id="_to2" uri="${header.uriLocalidad}?provincia=${property.provinciaId}"/>
-                <to id="_to3" uri="ref:georef_to_provincias"/>
-                <doCatch id="_doCatch1">
-                    <exception>java.lang.Exception</exception>
-                    <to id="_to4" uri="direct:error-handler:start"/>
-                </doCatch>
-            </doTry>
+        <route id="simple-route">
+            <from id="_from1" uri="direct:api-post-provincia:start"/>
+            <log id="_log1" message="${body}"/>
         </route>
-        <route id="api-post-provincia">
-            <from id="_from3" uri="direct:api-post-provincia:start"/>
+        <route id="_route1">
+            <from id="_from2" uri="direct:api-get-provincias:start"/>
+            <toD id="_to1" uri="${header.uriProvincia}"/>
             <log id="_log2" message="${body}"/>
-        </route>
-        <route id="error handler">
-            <from id="_from2" uri="direct:error-handler:start"/>
-            <when id="_when2">
-                <simple>${exception} not is 'ar.globallogic.error.BusinessException'</simple>
-                <doTry id="_doTry2">
-                    <when id="_when3">
-                        <simple>${exception} is 'org.apache.camel.component.restlet.RestletOperationException'</simple>
-                        <throwException
-                            exceptionType="ar.globallogic.error.ConnectException"
-                            id="_throwException2" message="${exception.message}"/>
-                    </when>
-                    <throwException
-                        exceptionType="ar.globallogic.error.TechnicalException"
-                        id="_throwException3" message="${exception.message}"/>
-                    <doCatch id="_doCatch2">
-                        <exception>ar.globallogic.error.TechnicalException</exception>
-                        <log id="_log1" message="${exception}"/>
-                    </doCatch>
-                </doTry>
-            </when>
-            <to id="_to5" uri="ref:errorHandler"/>
         </route>
     </camelContext>
 </beans>

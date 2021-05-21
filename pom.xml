@@ -11,14 +11,14 @@
     <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
-    <fuse.version>7.8.0.fuse-sb2-780038-redhat-00001</fuse.version>
+    <fuse.version>7.7.0.fuse-770012-redhat-00003</fuse.version>
   </properties>
   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>org.jboss.redhat-fuse</groupId>
         <artifactId>fuse-springboot-bom</artifactId>
-        <version>7.8.0.fuse-sb2-780038-redhat-00001</version>
+        <version>7.7.0.fuse-770012-redhat-00003</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
@@ -40,33 +40,8 @@
     </dependency>
     <dependency>
       <groupId>org.apache.camel</groupId>
-      <artifactId>camel-restlet-starter</artifactId>
-      <version>LATEST</version>
-    </dependency>
-    <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>2.8.6</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.camel</groupId>
-      <artifactId>camel-saxon</artifactId>
-      <version>LATEST</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.camel</groupId>
-      <artifactId>camel-dozer-starter</artifactId>
-      <version>2.23.2.fuse-780036-redhat-00001</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.camel</groupId>
-      <artifactId>camel-jackson</artifactId>
-      <version>LATEST</version>
-    </dependency>
-    <dependency>
-      <groupId>javax.ws.rs</groupId>
-      <artifactId>javax.ws.rs-api</artifactId>
-      <version>LATEST</version>
+      <artifactId>camel-restlet</artifactId>
+      <version>2.21.0.fuse-770013-redhat-00001</version>
     </dependency>
   </dependencies>
   <repositories>
@@ -99,14 +74,6 @@
   </pluginRepositories>
   <build>
     <defaultGoal>spring-boot:run</defaultGoal>
-    <resources>
-      <resource>
-        <directory>.transformations</directory>
-      </resource>
-      <resource>
-        <directory>src/main/resources/</directory>
-      </resource>
-    </resources>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -141,17 +108,6 @@
           </execution>
         </executions>
       </plugin>
-      <plugin>
-        <groupId>org.apache.felix</groupId>
-        <artifactId>maven-bundle-plugin</artifactId>
-        <version>3.2.0</version>
-        <extensions>true</extensions>
-        <configuration>
-          <instructions>
-            <Import-Package>*</Import-Package>
-          </instructions>
-        </configuration>
-      </plugin>
     </plugins>
   </build>
   <profiles>
@@ -168,6 +124,7 @@
         <dependency>
           <groupId>javax.xml.ws</groupId>
           <artifactId>jaxws-api</artifactId>
+          <version>2.3.0</version>
           <exclusions>
             <exclusion>
               <artifactId>jaxb-api</artifactId>
@@ -178,6 +135,12 @@
         <dependency>
           <groupId>jakarta.xml.bind</groupId>
           <artifactId>jakarta.xml.bind-api</artifactId>
+          <version>2.3.2</version>
+        </dependency>
+        <dependency>
+          <groupId>com.sun.activation</groupId>
+          <artifactId>javax.activation</artifactId>
+          <version>1.2.0</version>
         </dependency>
         <dependency>
           <groupId>org.apache.geronimo.specs</groupId>
@@ -187,6 +150,7 @@
         <dependency>
           <groupId>com.sun.xml.messaging.saaj</groupId>
           <artifactId>saaj-impl</artifactId>
+          <version>1.4.0-b03</version>
         </dependency>
         <dependency>
           <groupId>org.apache.geronimo.specs</groupId>

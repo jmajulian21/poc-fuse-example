@@ -1,7 +1,4 @@
-package ar.globallogic.service;
-
-import java.text.SimpleDateFormat;
-import java.util.Date;
+package org.mycompany.service;
 
 import org.apache.camel.EndpointInject;
 import org.apache.camel.FluentProducerTemplate;
@@ -27,9 +24,6 @@ public class GeografiaService {
 
 	@RequestMapping(value="/provincia", method=RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
 	public String getProvincia(@RequestParam String nombre) {
-		Date date = new Date();
-		SimpleDateFormat formatterD = new SimpleDateFormat("dd-MM-yyyy");
-		SimpleDateFormat formatterT = new SimpleDateFormat("hh:mm aa");
 		String uriProvincia = uriGeorefProvincia;
 		
 		if(nombre != null && !nombre.isEmpty())
@@ -38,8 +32,6 @@ public class GeografiaService {
 		
 		producer.withHeader("uriProvincia", uriProvincia);
 		producer.withHeader("uriLocalidad", uriGeorefLocalidad);
-		producer.withHeader("fecha", formatterD.format(date));
-		producer.withHeader("hora", formatterT.format(date));
 		
 		return producer.request(String.class);
 	}
